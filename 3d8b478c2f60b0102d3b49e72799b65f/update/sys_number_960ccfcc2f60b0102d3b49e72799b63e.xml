@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="u_regulator_contact">u_regulator_contact</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>REG</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-31 10:54:45</sys_created_on>
+        <sys_id>960ccfcc2f60b0102d3b49e72799b63e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REG</sys_name>
+        <sys_package display_value="appforjenkins" source="3d8b478c2f60b0102d3b49e72799b65f">3d8b478c2f60b0102d3b49e72799b65f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="appforjenkins">3d8b478c2f60b0102d3b49e72799b65f</sys_scope>
+        <sys_update_name>sys_number_960ccfcc2f60b0102d3b49e72799b63e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-31 10:54:45</sys_updated_on>
+    </sys_number>
+</record_update>
